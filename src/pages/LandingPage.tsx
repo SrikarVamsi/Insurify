@@ -19,7 +19,7 @@ const LandingPage = () => {
             <Car className="h-16 w-16 text-blue-600" />
           </div>
           <h1 className="text-5xl font-bold text-gray-900 mb-4">
-            VehicleCare AI
+            Insurify
           </h1>
           <p className="text-xl text-gray-600 mb-8">
             Fast, Accurate Vehicle Damage Assessment
